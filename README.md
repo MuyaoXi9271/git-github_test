@@ -1,2 +1,3 @@
 # git-github_test
-this will hold the favourite cooking recipes
+this will hold the favorite cooking recipes
+more recipes will come
